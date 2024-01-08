@@ -3,13 +3,13 @@
 ## **The corpus:**
 The corpus here consists of the lyrics of American music artist Taylor Swift organized by album. The lyrics have been extracted from the website Geniuslyrics and the code for the same was obtained from a Github repositary. 
 <br>
-## **Your target audience and the intended use of the corpus:**
+## **Target audience and intended use of the corpus:**
 The corpus is used for the processes of tokenization and lemmatization of the lyrics of Taylor Swift's songs. The intended audience for this repositary and corpus are those interested in the NLP of lyrics in general and Taylor Swifts' writings in particular. 
 <br>
 ## **Text selection criteria:**
 The albums selected are the initial ones she recorded under her contract with Big Machine Records and her later new albums under her contract with Republic Records. The rerecorded albums with new and alternate lyrics have not been included. 
 <br>
-## **The data collection process:**
+## **Data collection process:**
 The data has been collected through the code for its collection on Genius derived from another Github repositary doing an analysis on Taylor Swift lyrics. The code has been included in the uploaded annotation code titled Collecting_Data_Assignment_4.ipynb.
 <br>
 ## **Cleaning and/or preprocessing steps:**
